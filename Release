@@ -1,0 +1,9 @@
+Origin: kubernetes-xenial
+Label: kubernetes-xenial
+Suite: kubernetes-xenial
+Codename: kubernetes-xenial
+Date: Wed, 13 Sep 2023 21:13:14 UTC
+Acquire-By-Hash: yes
+Architecture: amd64
+Component: main
+Description: kubernetes-xenial
